@@ -1,17 +1,43 @@
-export { default as Button } from './Button';
-export { default as ThemeSettings } from './ThemeSettings';
-export { default as Sidebar } from './Sidebar';
+import { Button } from './Button';
+export  {  Button } ;
 
-export { default as Navbar } from './Navbar';
-export { default as Footer } from './Footer';
-export { default as Cart } from './Cart';
-export { default as Chat } from './Chat';
-export { default as Notification } from './Notification';
-export { default as UserProfile } from './UserProfile';
-export { default as SparkLine } from './Charts/SparkLine';
-export { default as LineChart } from './Charts/LineChart';
-export { default as Stacked } from './Charts/Stacked';
-export { default as Pie } from './Charts/Pie';
-export { default as ChartsHeader } from './ChartsHeader';
-export { default as Header } from './Header';
+import { ThemeSettings } from './ThemeSettings';
+export { ThemeSettings };
+
+import { Sidebar } from './Sidebar';
+export {  Sidebar } ;
+
+import {  Navbar } from './Navbar';
+export { Navbar };
+
+import { Footer } from './Footer';
+export {  Footer };
+
+
+import {  Cart } from './Cart';
+export { Cart };
+
+import { default as Chat } from './Chat';
+export { Chat };
+
+import { Notification } from './Notification';
+export { Notification };
+
+
+import { UserProfile } from './UserProfile';
+import { SparkLine } from './Charts/SparkLine';
+import {  LineChart } from './Charts/LineChart';
+import {  Stacked } from './Charts/Stacked';
+import {  Pie } from './Charts/Pie';
+import { ChartsHeader } from './ChartsHeader';
+import {  Header } from './Header';
+
+
+export { UserProfile } ;
+export { SparkLine } ;
+export {  LineChart } ;
+export {  Stacked } ;
+export {  Pie };
+export {  ChartsHeader } ;
+export {Header } ;
 
