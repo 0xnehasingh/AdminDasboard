@@ -34,10 +34,10 @@ Quickly make content updates, create product descriptions, and more.
 
 <img width="1434" alt="Screenshot 2023-11-02 at 9 01 28 AM" src="https://github.com/0xnehasingh/AdminDasboard/assets/67492324/16626139-d7e5-403b-a2ff-e13ff65d91e9">
 
-Charts
+## Charts
 Explore various chart options to visualize your data:
 
-## Line Chart
+### Line Chart
 Track trends and patterns over time.
 Area Chart
 Visualize data distributions and progress.
