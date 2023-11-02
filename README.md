@@ -23,7 +23,17 @@ Assign roles, update profiles, and monitor employee activities.
 
 ## Calendar
 Stay organized with an integrated calendar.
-Schedule important events, set reminders, and keep your business on track
+Schedule important events, set reminders, and keep your business on track.
+## Kanban
+Simplify project and task management.
+Visualize workflow, collaborate with your team, and boost productivity.
+## Editor
+A powerful text editor at your fingertips.
+Quickly make content updates, create product descriptions, and more.
+## Color-Picker
+Customize your brand's colour scheme.
+Easily select and manage colours for your website or branding materials.
+
 
 <img width="1433" alt="Screenshot 2023-11-02 at 11 50 42 AM" src="https://github.com/0xnehasingh/AdminDasboard/assets/67492324/45e9cdbe-ae67-4307-9e22-953ab116608a">
 
@@ -38,21 +48,21 @@ Quickly make content updates, create product descriptions, and more.
 ## Charts
 Explore various chart options to visualize your data:
 
-Line Chart
+### Line Chart
 Track trends and patterns over time.
-Area Chart
+### Area Chart
 Visualize data distributions and progress.
-Bar Chart
+#### Bar Chart
 Compare data across categories.
-Pie Chart
+### Pie Chart
 Display data composition in a circular format.
-Financial Chart
+### Financial Chart
 Analyze financial data and investments.
-Colour-Mapping Chart
+### Colour-Mapping Chart
 Map data points with color-coded visualizations.
-Pyramid Chart
+### Pyramid Chart
 Display hierarchical data in a pyramid structure.
-Stacked Chart
+### Stacked Chart
 Compare multiple data sets stacked on top of each other
 
 <img width="1435" alt="Screenshot 2023-11-02 at 11 52 21 AM" src="https://github.com/0xnehasingh/AdminDasboard/assets/67492324/4be96e86-e100-4613-b8ef-5bf27f177586">
