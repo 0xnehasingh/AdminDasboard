@@ -6,6 +6,7 @@ This dashboard provides a comprehensive view of e-commerce performance metrics. 
 Customer Insights:
    - Total number of customers
    - Percentage growth in customer count
+   - Pagination: Easily navigate through a large customer database with a user-friendly pagination system.
 
 <img width="1434" alt="Screenshot 2023-11-02 at 11 41 11 AM" src="https://github.com/0xnehasingh/AdminDasboard/assets/67492324/c509d45f-95fb-40f7-86bd-93bed58272d4">
 
