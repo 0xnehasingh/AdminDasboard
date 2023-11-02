@@ -37,7 +37,7 @@ Quickly make content updates, create product descriptions, and more.
 Charts
 Explore various chart options to visualize your data:
 
-Line Chart
+##Line Chart
 Track trends and patterns over time.
 Area Chart
 Visualize data distributions and progress.
